@@ -1,0 +1,16 @@
+Your name
+- Josue Martin Guillen
+
+What is your major?
+- Mechatronics Engineering
+
+Why are you in this class?
+- Originally wanted to clear this course out of my MAP, now I would like to pursue becoming a ,,hobbyist" 
+programmer after seeing what can be done with the skill.
+
+What do you think you will learn?
+So far I have learned about arrays, multi-dimensional arrays, libraries and it's built in functions.
+
+Anything else that you would like to share with the class (NOTE: this will be public so only post something you would like public).
+- Playing catch-up right now. I believe that I will be able to accomplish this feat of this by the end of the semester. This assignment
+does not need to be credited, however, I do like the feeling that I am starting from scratch and completing the assignments.
