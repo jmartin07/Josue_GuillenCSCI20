@@ -1,11 +1,12 @@
 /*
 Created by: Josue Guillen
-Date: 11/12/2016
-Assignment: Create an image completely using characters (AsCII)
+Date: 11/20/2016
+Assignment: Create a copyright function. This function should have an ASCII picture, your name, copyright and year. Add this function to one of your previous labs or assignments and submit.
 */ 
 
 #include <iostream>
-using namespace std;
+#include <string>
+using namespace std; 
 
 void printMoney()
 {
@@ -26,23 +27,9 @@ void printMoney()
     return;
 }
 
-int main() {
-    
+int main ()
+{
     printMoney();
     
-    cout << "         " << endl;
-    cout << "    $    " << endl;
-    cout << "   $$$   " << endl;
-    cout << " $$$$$$$ " << endl;
-    cout << "$$$$$$$$$" << endl;
-    cout << " $$$$$$$ " << endl;
-    cout << "  $$$$$  " << endl;
-    cout << "   $$$   " << endl;
-    cout << "    $    " << endl;
-    cout << "    $    " << endl;
-    cout << "         " << endl;
-    cout << "Who says money doesn't grow on trees?" << endl;
     return 0;
 }
-
-

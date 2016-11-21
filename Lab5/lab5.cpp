@@ -27,7 +27,7 @@ int main ()
     monsterStruct giantCat;
     monsterStruct DrPc;
     
-    DrPc.Name = "Dr.PC";
+    DrPc.Name = "Dr PC";
     DrPc.Head = "Square";
     DrPc.Eyes = "Big Xs";
     DrPc.Ears = "None";
